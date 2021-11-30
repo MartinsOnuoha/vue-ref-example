@@ -2,6 +2,8 @@
 
 An Example of Accessing Component Data with $ref in Vue.
 
+![image](https://cdn-images-1.medium.com/max/1600/1*aJP0QZiaeuehdkT3myQb2A.png)
+
 ## Project setup
 
 ```bash
