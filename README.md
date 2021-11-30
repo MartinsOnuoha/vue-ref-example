@@ -1,4 +1,4 @@
-# vue-ref
+# vue-ref-example
 
 An Example of Accessing Component Data with $ref in Vue.
 
